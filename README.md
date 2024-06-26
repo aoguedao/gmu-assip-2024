@@ -24,3 +24,4 @@
 | Mini-Project: Bacterial Colony | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/labs/lab_area_bacterial_colony.ipynb) |
 | Statistical Thinking Foundations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/labs/lab_statistical_thinking_foundations.ipynb) |
 | Data Visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/labs/lab_data_visualization.ipynb) |
+| Machine Learning Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/labs/lab_ml_regression.ipynb) |
