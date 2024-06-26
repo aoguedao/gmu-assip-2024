@@ -10,7 +10,8 @@
 | Statistical Thinking Foundations | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/statistical_thinking_foundations.ipynb) |
 | Data Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/data_analysis.ipynb) |
 | Data Visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/data_visualization.ipynb) |
-| Lotka-Volterra Model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/lotka-volterra.ipynb) |
+| Machine Learning Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/ml_overview.ipynb) |
+| Machine Learning Examples | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/ml_examples.ipynb) |
 
 
 
