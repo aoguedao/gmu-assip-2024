@@ -15,6 +15,11 @@
 | Lotka-Volterra Model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/lotka-volterra.ipynb) |
 | Machine Learning: Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/ml_regression.ipynb) |
 | Machine Learning: Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/ml_classification.ipynb) |
+| Neural Networks: Part 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/neural_networks_intro_part1.ipynb) |
+| Neural Networks: Part 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/neural_networks_intro_part2.ipynb) |
+| Physics-Informed Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/pinn.ipynb) |
+| SIRD - PINNs | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/gmu-assip-2024/blob/main/lessons/dinn.ipynb) |
+
 
 ## Activities
 
